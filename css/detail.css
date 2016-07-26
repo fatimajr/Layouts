@@ -1,0 +1,56 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+.container{
+	width: 700px ;
+	height: 1100px ;
+	border: 1px solid black;
+	margin: 20px auto;
+}
+.foto img{
+	border-radius: 160px;
+	margin: 20px 240px;
+}
+h1{
+	margin: 0px 210px;
+}
+.texto{
+	text-align: center;
+	width: 600px;
+	margin: 30px 50px;
+}
+h2{
+	margin: 30px 25px;
+}
+.cuadro1{
+	margin: 30px 40px;
+	width: 500px;
+	height: 50px;
+	background-color: gray;
+	color: white;
+	padding: 15px;
+}
+.cuadro2{
+	margin: 30px 40px;
+	width: 320px;
+	height: 50px;
+	background-color: gray;
+	color: white;
+	padding: 15px;
+}
+.cuadro3{
+	margin: 30px 40px;
+	width: 200px;
+	height: 50px;
+	background-color: gray;
+	color: white;
+	padding: 15px;
+}
+.foto2{
+	margin: 20px 5px;
+}
+img{
+	margin-left: 40px;
+}
